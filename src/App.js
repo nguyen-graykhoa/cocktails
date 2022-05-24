@@ -1,12 +1,13 @@
-import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import React from 'react'
+import { BrowserRouter as Router, Switch as Routes , Route, Switch } from 'react-router-dom'
 // import pages
-import Home from "./pages/Home";
-import About from "./pages/About";
-import SingleCocktail from "./pages/SingleCocktail";
-import Error from "./pages/Error";
+import Home from './pages/Home'
+import About from './pages/About'
+import SingleCocktail from './pages/SingleCocktail'
+import Error from './pages/Error'
+import Navbar from './components/Navbar';
 // import components
-import Navbar from "./components/Navbar";
+
 function App() {
   return (
     <Router>
@@ -29,4 +30,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
