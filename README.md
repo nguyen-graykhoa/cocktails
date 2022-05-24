@@ -1,15 +1,4 @@
-#### React Router Fix
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+React App to display a list of cocktails and/or individual drink
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+![Screenshot](https://github.com/nguyen-graykhoa/cocktails/blob/main/src/cocktails.JPG)
