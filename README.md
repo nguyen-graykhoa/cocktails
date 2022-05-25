@@ -1,4 +1,6 @@
 
-React App to display a list of cocktails and/or individual drink
+View live site here: https://dazzling-bunny-8be121.netlify.app/ <br/><br/><br/>
+
+A React js application that retrieves data from an external API to display as list of cocktails
 
 ![Screenshot](https://github.com/nguyen-graykhoa/cocktails/blob/main/src/cocktails.JPG)
